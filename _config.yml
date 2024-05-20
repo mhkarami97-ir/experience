@@ -57,16 +57,16 @@ baseurl: "/"
    
 repository: "MHKarami97/experience"
 
-# comments:
-#   provider: ""
-#   giscus:
-#     repo_id              : ""
-#     category_name        : "General"
-#     category_id          : ""
-#     discussion_term      : "pathname"
-#     reactions_enabled    : "1"
-#     theme                : "light"
-#     crossorigin          : "anonymous" 
+comments:
+  provider: ""
+  giscus:
+    repo_id              : "MDEwOlJlcG9zaXRvcnkzMjE5OTM3NDM="
+    category_name        : "General"
+    category_id          : "DIC_kwDOEzE8D84B-PIL"
+    discussion_term      : "pathname"
+    reactions_enabled    : "1"
+    theme                : "light"
+    crossorigin          : "anonymous" 
 
 #utterances:
 #  repo: "MHKarami97/blog"
@@ -76,7 +76,7 @@ repository: "MHKarami97/experience"
   
 #giscus:
 #  repo: "MHKarami97/blog"
-#  repo-id: ""
+#  repo-id: "MDEwOlJlcG9zaXRvcnkzMjE5OTM3NDM="
 #  category: "General"
 #  category-id: "DIC_kwDOEzE8D84B-PIL"
 #  mapping: "pathname"
@@ -133,13 +133,37 @@ author:
       url: "https://itarfand.com"
     - label: "دیگر سایت‌ها"
       icon: "fas fa-fw fa-link"
-      url: "https://mhkarami97.ir/"  
+      url: "https://mhkarami97.ir"  
+    - label: "انجمن گفتگو"
+      icon: "fas fa-fw fa-link"
+      url: "https://forum.itarfand.com"    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mhkarami97"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mhkarami97"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mhkarami97"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mhkarami97"
 
 footer:
   links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mhkarami97"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://mhkarami97.ir"
+      url: "https://github.com/mhkarami97"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mhkarami97"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/mhkarami97"
 
 defaults:
   # _posts
