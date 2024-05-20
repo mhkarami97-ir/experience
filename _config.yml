@@ -126,9 +126,9 @@ plugins:
 author:
   name   : "محمد حسین کرمی"
   avatar : "/assets/images/my.jpg"
-  bio    : "تجربه"
+  bio    : "خوش بود گر محک تجربه آید به میان"
   links:
-    - label: "وبسایت"
+    - label: "وب‌سایت"
       icon: "fas fa-fw fa-link"
       url: "https://itarfand.com"
     - label: "دیگر سایت‌ها"
