@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: تجربه
+title: روزمرگی های یک برنامه نویس
 email: mhkarami97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  تجربه
+  روزمرگی های یک برنامه نویس
 twitter_username: mhkarami97
 github_username: mhkarami97
 minimal_mistakes_skin: air
@@ -42,7 +42,7 @@ direction: rtl
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://experience.mhkarami97.ir
+url: https://blog.mhkarami97.ir
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -55,7 +55,7 @@ baseurl: "/"
 #comments:
 #   provider: "giscus"
    
-repository: "MHKarami97/experience"
+repository: "MHKarami97/blog"
 
 comments:
   provider: ""
@@ -126,14 +126,14 @@ plugins:
 author:
   name   : "محمد حسین کرمی"
   avatar : "/assets/images/my.jpg"
-  bio    : "تجربه
+  bio    : "روزمرگی های یک برنامه نویس"
   links:
     - label: "وبسایت"
       icon: "fas fa-fw fa-link"
       url: "https://itarfand.com"
     - label: "دیگر سایت‌ها"
       icon: "fas fa-fw fa-link"
-      url: "https://mhkarami97.ir"  
+      url: "https://mhkarami97.ir/#blog"  
     - label: "انجمن گفتگو"
       icon: "fas fa-fw fa-link"
       url: "https://forum.itarfand.com"    
