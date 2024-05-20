@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: روزمرگی های یک برنامه نویس
+title: تجربه
 email: mhkarami97@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  روزمرگی های یک برنامه نویس
+  تجربه‌های من
 twitter_username: mhkarami97
 github_username: mhkarami97
 minimal_mistakes_skin: air
@@ -42,7 +42,7 @@ direction: rtl
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.mhkarami97.ir
+url: https://experience.mhkarami97.ir
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -55,7 +55,7 @@ baseurl: "/"
 #comments:
 #   provider: "giscus"
    
-repository: "MHKarami97/blog"
+repository: "MHKarami97/experience"
 
 comments:
   provider: ""
@@ -69,13 +69,13 @@ comments:
     crossorigin          : "anonymous" 
 
 #utterances:
-#  repo: "MHKarami97/blog"
+#  repo: "MHKarami97/experience"
 #  issue-term: "pathname"
 #  label: "Comments"
 #  theme: "github-light"
   
 #giscus:
-#  repo: "MHKarami97/blog"
+#  repo: "MHKarami97/experience"
 #  repo-id: "MDEwOlJlcG9zaXRvcnkzMjE5OTM3NDM="
 #  category: "General"
 #  category-id: "DIC_kwDOEzE8D84B-PIL"
@@ -126,14 +126,14 @@ plugins:
 author:
   name   : "محمد حسین کرمی"
   avatar : "/assets/images/my.jpg"
-  bio    : "روزمرگی های یک برنامه نویس"
+  bio    : "تجربه"
   links:
     - label: "وبسایت"
       icon: "fas fa-fw fa-link"
       url: "https://itarfand.com"
     - label: "دیگر سایت‌ها"
       icon: "fas fa-fw fa-link"
-      url: "https://mhkarami97.ir/#blog"  
+      url: "https://mhkarami97.ir/"  
     - label: "انجمن گفتگو"
       icon: "fas fa-fw fa-link"
       url: "https://forum.itarfand.com"    
