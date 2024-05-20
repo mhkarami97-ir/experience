@@ -57,16 +57,16 @@ baseurl: "/"
    
 repository: "MHKarami97/experience"
 
-comments:
-  provider: ""
-  giscus:
-    repo_id              : ""
-    category_name        : "General"
-    category_id          : ""
-    discussion_term      : "pathname"
-    reactions_enabled    : "1"
-    theme                : "light"
-    crossorigin          : "anonymous" 
+# comments:
+#   provider: ""
+#   giscus:
+#     repo_id              : ""
+#     category_name        : "General"
+#     category_id          : ""
+#     discussion_term      : "pathname"
+#     reactions_enabled    : "1"
+#     theme                : "light"
+#     crossorigin          : "anonymous" 
 
 #utterances:
 #  repo: "MHKarami97/blog"
