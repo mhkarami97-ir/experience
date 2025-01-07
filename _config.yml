@@ -128,9 +128,6 @@ author:
   avatar : "/assets/images/my.jpg"
   bio    : "خوش بود گر محک تجربه آید به میان"
   links:
-    - label: "وب‌سایت"
-      icon: "fas fa-fw fa-link"
-      url: "https://itarfand.com"
     - label: "دیگر سایت‌ها"
       icon: "fas fa-fw fa-link"
       url: "https://mhkarami97.ir"  
